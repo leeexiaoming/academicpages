@@ -1,64 +1,46 @@
 ---
-layout: archive
-title: "CV"
 permalink: /cv/
+title: "Curriculum Vitae"
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
+## Academic appointment
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+**Assistant Professor of Information Technology and Business Analytics**<br>
+Department of Information Technology, Analytics & Operations<br>
+Poole College of Management, NC State University
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Education
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**Ph.D. in Management Information Systems**<br>
+The University of Texas at Dallas
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Research interests
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- Digital platforms
+- Open innovation and crowdsourcing
+- Online labor markets
+- Online communities and social media advertising
+- AI-enabled services and human–AI interaction
+
+## Journal publications
+
+1. Lu, Z., **Mo, J.**, Luo, X., and Min, Q. (2026). “How to Initiate Human-Agent Intervention for Recovery When Chatbots Fail: A Social Information Processing Perspective.” *Decision Support Systems*, 208, 114715.
+2. **Mo, J.**, Sarkar, S., and Chen, J. (2026). “Sponsored Tasks and Solver Participation in Crowdsourcing Contests.” *Information Systems Research*, 37(2), 693–715.
+3. Yang, H., Wang, L., Luo, X., **Mo, J.**, and Li, D. (2025). “Too Good to Be True? The Impact of Distinction Badges on Patient Satisfaction with Online Healthcare Services.” *Information & Management*, 62(8), 104209.
+4. **Mo, J.**, and Zhang, N. (2025). “Framing of Seeker-Generated Information and New Solver Participation in Open Innovation Contests: An Empirical Analysis of the Temporal Effects.” *Information Systems Research*, 36(4), 2235–2252.
+5. Chen, Y., Boh, W. F., and **Mo, J.** (2024). “Different Types of Online Social Exchanges: Effects on Online Sellers’ Sales Performance.” *Information & Management*, 61(6), 104003.
+6. **Mo, J.**, Sarkar, S., and Menon, S. (2021). “Competing Tasks and Task Quality: An Empirical Study of Crowdsourcing Contests.” *MIS Quarterly*, 45(4), 1921–1948.
+7. **Mo, J.**, Sarkar, S., and Menon, S. (2018). “Know When to Run: Recommendations in Crowdsourcing Contests.” *MIS Quarterly*, 42(3), 919–944.
+
+## Research methods
+
+Applied econometrics, experiments, machine learning, large language models, text mining, and image analysis.
+
+## Professional profiles
+
+- [Google Scholar](https://scholar.google.com/citations?user=W7iDtYwAAAAJ&hl=en)
+- [ORCID](https://orcid.org/0000-0002-8635-8075)
+- [NC State faculty profile](https://poole.ncsu.edu/people/jiahui-mo/)
+
+*This web CV contains information verified from public university and publication records. A downloadable full CV can be added when the PDF is available.*
