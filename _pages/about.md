@@ -24,8 +24,8 @@ My current interests include:
 
 I combine **applied econometrics**, **experiments**, **machine learning**, **large language models**, **text mining**, and **image analysis** in my work.
 
-[Explore my research](/research/){: .btn .btn--primary}
-[View publications](/publications/){: .btn}
+[Explore my research]({{ "/research/" | relative_url }}){: .btn .btn--primary}
+[View publications]({{ "/publications/" | relative_url }}){: .btn}
 
 ## Selected work
 

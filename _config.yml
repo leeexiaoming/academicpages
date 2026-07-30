@@ -13,10 +13,9 @@ title                    : "Jiahui Mo"
 title_separator          : "-"
 name                     : &name "Jiahui Mo"
 description              : &description "Academic website of Jiahui Mo, Assistant Professor of Information Technology and Business Analytics at NC State University."
-url                      : "" # Add the production URL before deployment.
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               :
+url                      : "https://leeexiaoming.github.io"
+baseurl                  : "/academicpages"
+repository               : "leeexiaoming/academicpages"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.

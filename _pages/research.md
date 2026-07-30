@@ -28,4 +28,4 @@ I use interdisciplinary methods selected for the research setting, including:
 - Text mining and natural language processing
 - Image analysis
 
-For papers and current output, visit the [publications page](/publications/) or [Google Scholar](https://scholar.google.com/citations?user=W7iDtYwAAAAJ&hl=en).
+For papers and current output, visit the [publications page]({{ "/publications/" | relative_url }}) or [Google Scholar](https://scholar.google.com/citations?user=W7iDtYwAAAAJ&hl=en).
